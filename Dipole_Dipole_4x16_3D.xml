@@ -1,0 +1,1213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Protocol>
+	<Name>Dipole Dipole array 3D</Name>
+	<Description>3D dipole dipole protocol running on 4x16 grid of electrodes</Description>
+	<SpreadFile>3D_10x6.xml</SpreadFile>
+	<Arraycode>11</Arraycode>
+	<Sequence>
+		<Measure>
+			<Tx>15 16</Tx>
+			<Rx>14 13</Rx>
+			<Rx>9 8</Rx>
+			<Rx>5 4</Rx>
+		</Measure>
+		<Measure>
+			<Tx>14 15</Tx>
+			<Rx>13 12</Rx>
+			<Rx>10 9</Rx>
+			<Rx>7 6</Rx>
+		</Measure>
+		<Measure>
+			<Tx>13 14</Tx>
+			<Rx>12 11</Rx>
+			<Rx>8 7</Rx>
+			<Rx>5 4</Rx>
+		</Measure>
+		<Measure>
+			<Tx>12 13</Tx>
+			<Rx>11 10</Rx>
+			<Rx>16 15</Rx>
+			<Rx>10 9</Rx>
+			<Rx>8 7</Rx>
+			<Rx>5 4</Rx>
+		</Measure>
+		<Measure>
+			<Tx>11 12</Tx>
+			<Rx>10 9</Rx>
+			<Rx>14 13</Rx>
+			<Rx>15 14</Rx>
+			<Rx>16 15</Rx>
+			<Rx>3 2</Rx>
+		</Measure>
+		<Measure>
+			<Tx>10 11</Tx>
+			<Rx>9 8</Rx>
+			<Rx>14 13</Rx>
+			<Rx>15 14</Rx>
+			<Rx>16 15</Rx>
+			<Rx>6 5</Rx>
+		</Measure>
+		<Measure>
+			<Tx>9 10</Tx>
+			<Rx>8 7</Rx>
+			<Rx>13 12</Rx>
+			<Rx>14 13</Rx>
+			<Rx>15 14</Rx>
+			<Rx>16 15</Rx>
+			<Rx>2 1</Rx>
+		</Measure>
+		<Measure>
+			<Tx>8 9</Tx>
+			<Rx>7 6</Rx>
+			<Rx>12 11</Rx>
+			<Rx>13 12</Rx>
+			<Rx>14 13</Rx>
+			<Rx>15 14</Rx>
+			<Rx>3 2</Rx>
+			<Rx>16 15</Rx>
+		</Measure>
+		<Measure>
+			<Tx>7 8</Tx>
+			<Rx>6 5</Rx>
+			<Rx>11 10</Rx>
+			<Rx>12 11</Rx>
+			<Rx>13 12</Rx>
+			<Rx>14 13</Rx>
+			<Rx>2 1</Rx>
+			<Rx>15 14</Rx>
+			<Rx>16 15</Rx>
+		</Measure>
+		<Measure>
+			<Tx>6 7</Tx>
+			<Rx>5 4</Rx>
+			<Rx>10 9</Rx>
+			<Rx>11 10</Rx>
+			<Rx>12 11</Rx>
+			<Rx>13 12</Rx>
+			<Rx>14 13</Rx>
+			<Rx>15 14</Rx>
+			<Rx>16 15</Rx>
+		</Measure>
+		<Measure>
+			<Tx>5 6</Tx>
+			<Rx>4 3</Rx>
+			<Rx>8 7</Rx>
+			<Rx>9 8</Rx>
+			<Rx>10 9</Rx>
+			<Rx>11 10</Rx>
+			<Rx>12 11</Rx>
+			<Rx>13 12</Rx>
+			<Rx>14 13</Rx>
+			<Rx>15 14</Rx>
+			<Rx>16 15</Rx>
+		</Measure>
+		<Measure>
+			<Tx>4 5</Tx>
+			<Rx>3 2</Rx>
+			<Rx>7 6</Rx>
+			<Rx>8 7</Rx>
+			<Rx>9 8</Rx>
+			<Rx>10 9</Rx>
+			<Rx>11 10</Rx>
+			<Rx>12 11</Rx>
+			<Rx>13 12</Rx>
+			<Rx>14 13</Rx>
+			<Rx>15 14</Rx>
+			<Rx>16 15</Rx>
+		</Measure>
+		<Measure>
+			<Tx>3 4</Tx>
+			<Rx>2 1</Rx>
+			<Rx>6 5</Rx>
+			<Rx>7 6</Rx>
+			<Rx>8 7</Rx>
+			<Rx>9 8</Rx>
+			<Rx>10 9</Rx>
+			<Rx>11 10</Rx>
+			<Rx>12 11</Rx>
+			<Rx>13 12</Rx>
+			<Rx>14 13</Rx>
+			<Rx>15 14</Rx>
+			<Rx>16 15</Rx>
+		</Measure>
+		<Measure>
+			<Tx>14 16</Tx>
+			<Rx>12 10</Rx>
+		</Measure>
+		<Measure>
+			<Tx>13 15</Tx>
+			<Rx>11 9</Rx>
+		</Measure>
+		<Measure>
+			<Tx>12 14</Tx>
+			<Rx>10 8</Rx>
+		</Measure>
+		<Measure>
+			<Tx>11 13</Tx>
+			<Rx>9 7</Rx>
+		</Measure>
+		<Measure>
+			<Tx>10 12</Tx>
+			<Rx>8 6</Rx>
+		</Measure>
+		<Measure>
+			<Tx>9 11</Tx>
+			<Rx>7 5</Rx>
+			<Rx>15 13</Rx>
+			<Rx>5 3</Rx>
+		</Measure>
+		<Measure>
+			<Tx>8 10</Tx>
+			<Rx>6 4</Rx>
+			<Rx>16 14</Rx>
+		</Measure>
+		<Measure>
+			<Tx>7 9</Tx>
+			<Rx>5 3</Rx>
+			<Rx>15 13</Rx>
+		</Measure>
+		<Measure>
+			<Tx>6 8</Tx>
+			<Rx>4 2</Rx>
+			<Rx>12 10</Rx>
+			<Rx>14 12</Rx>
+			<Rx>16 14</Rx>
+		</Measure>
+		<Measure>
+			<Tx>5 7</Tx>
+			<Rx>3 1</Rx>
+			<Rx>13 11</Rx>
+			<Rx>15 13</Rx>
+		</Measure>
+		<Measure>
+			<Tx>1 4</Tx>
+			<Rx>10 7</Rx>
+			<Rx>16 13</Rx>
+		</Measure>
+		<Measure>
+			<Tx>2 5</Tx>
+			<Rx>11 8</Rx>
+		</Measure>
+		<Measure>
+			<Tx>3 6</Tx>
+			<Rx>12 9</Rx>
+		</Measure>
+		<Measure>
+			<Tx>4 7</Tx>
+			<Rx>13 10</Rx>
+		</Measure>
+		<Measure>
+			<Tx>5 8</Tx>
+			<Rx>14 11</Rx>
+		</Measure>
+		<Measure>
+			<Tx>6 9</Tx>
+			<Rx>15 12</Rx>
+		</Measure>
+		<Measure>
+			<Tx>7 10</Tx>
+			<Rx>16 13</Rx>
+		</Measure>
+		<Measure>
+			<Tx>11 14</Tx>
+			<Rx>8 5</Rx>
+			<Rx>5 2</Rx>
+		</Measure>
+		<Measure>
+			<Tx>10 13</Tx>
+			<Rx>7 4</Rx>
+			<Rx>4 1</Rx>
+		</Measure>
+		<Measure>
+			<Tx>1 2</Tx>
+			<Rx>5 4</Rx>
+			<Rx>6 5</Rx>
+			<Rx>7 6</Rx>
+			<Rx>8 7</Rx>
+			<Rx>9 8</Rx>
+			<Rx>10 9</Rx>
+			<Rx>11 10</Rx>
+			<Rx>12 11</Rx>
+			<Rx>13 12</Rx>
+			<Rx>14 13</Rx>
+			<Rx>15 14</Rx>
+			<Rx>16 15</Rx>
+		</Measure>
+		<Measure>
+			<Tx>2 3</Tx>
+			<Rx>6 5</Rx>
+			<Rx>7 6</Rx>
+			<Rx>8 7</Rx>
+			<Rx>9 8</Rx>
+			<Rx>10 9</Rx>
+			<Rx>11 10</Rx>
+			<Rx>12 11</Rx>
+			<Rx>13 12</Rx>
+			<Rx>14 13</Rx>
+			<Rx>15 14</Rx>
+			<Rx>16 15</Rx>
+		</Measure>
+		<Measure>
+			<Tx>12 16</Tx>
+			<Rx>8 4</Rx>
+		</Measure>
+		<Measure>
+			<Tx>11 15</Tx>
+			<Rx>7 3</Rx>
+		</Measure>
+		<Measure>
+			<Tx>10 14</Tx>
+			<Rx>6 2</Rx>
+		</Measure>
+		<Measure>
+			<Tx>9 13</Tx>
+			<Rx>5 1</Rx>
+		</Measure>
+		<Measure>
+			<Tx>11 16</Tx>
+			<Rx>6 1</Rx>
+		</Measure>
+		<Measure>
+			<Tx>1 3</Tx>
+			<Rx>9 7</Rx>
+			<Rx>11 9</Rx>
+			<Rx>13 11</Rx>
+			<Rx>15 13</Rx>
+		</Measure>
+		<Measure>
+			<Tx>2 4</Tx>
+			<Rx>10 8</Rx>
+			<Rx>12 10</Rx>
+			<Rx>14 12</Rx>
+			<Rx>16 14</Rx>
+		</Measure>
+		<Measure>
+			<Tx>3 5</Tx>
+			<Rx>11 9</Rx>
+			<Rx>13 11</Rx>
+			<Rx>15 13</Rx>
+		</Measure>
+		<Measure>
+			<Tx>4 6</Tx>
+			<Rx>12 10</Rx>
+			<Rx>14 12</Rx>
+			<Rx>16 14</Rx>
+		</Measure>
+		<Measure>
+			<Tx>13 16</Tx>
+			<Rx>7 4</Rx>
+		</Measure>
+		<Measure>
+			<Tx>12 15</Tx>
+			<Rx>6 3</Rx>
+		</Measure>
+		<Measure>
+			<Tx>18 17</Tx>
+			<Rx>19 20</Rx>
+			<Rx>24 25</Rx>
+			<Rx>28 29</Rx>
+		</Measure>
+		<Measure>
+			<Tx>19 18</Tx>
+			<Rx>20 21</Rx>
+			<Rx>23 24</Rx>
+			<Rx>26 27</Rx>
+		</Measure>
+		<Measure>
+			<Tx>20 19</Tx>
+			<Rx>21 22</Rx>
+			<Rx>25 26</Rx>
+			<Rx>28 29</Rx>
+		</Measure>
+		<Measure>
+			<Tx>21 20</Tx>
+			<Rx>22 23</Rx>
+			<Rx>17 18</Rx>
+			<Rx>23 24</Rx>
+			<Rx>25 26</Rx>
+			<Rx>28 29</Rx>
+		</Measure>
+		<Measure>
+			<Tx>22 21</Tx>
+			<Rx>23 24</Rx>
+			<Rx>19 20</Rx>
+			<Rx>18 19</Rx>
+			<Rx>17 18</Rx>
+			<Rx>30 31</Rx>
+		</Measure>
+		<Measure>
+			<Tx>23 22</Tx>
+			<Rx>24 25</Rx>
+			<Rx>19 20</Rx>
+			<Rx>18 19</Rx>
+			<Rx>17 18</Rx>
+			<Rx>27 28</Rx>
+		</Measure>
+		<Measure>
+			<Tx>24 23</Tx>
+			<Rx>25 26</Rx>
+			<Rx>20 21</Rx>
+			<Rx>19 20</Rx>
+			<Rx>18 19</Rx>
+			<Rx>17 18</Rx>
+			<Rx>31 32</Rx>
+		</Measure>
+		<Measure>
+			<Tx>25 24</Tx>
+			<Rx>26 27</Rx>
+			<Rx>21 22</Rx>
+			<Rx>20 21</Rx>
+			<Rx>19 20</Rx>
+			<Rx>18 19</Rx>
+			<Rx>30 31</Rx>
+			<Rx>17 18</Rx>
+		</Measure>
+		<Measure>
+			<Tx>26 25</Tx>
+			<Rx>27 28</Rx>
+			<Rx>22 23</Rx>
+			<Rx>21 22</Rx>
+			<Rx>20 21</Rx>
+			<Rx>19 20</Rx>
+			<Rx>31 32</Rx>
+			<Rx>18 19</Rx>
+			<Rx>17 18</Rx>
+		</Measure>
+		<Measure>
+			<Tx>27 26</Tx>
+			<Rx>28 29</Rx>
+			<Rx>23 24</Rx>
+			<Rx>22 23</Rx>
+			<Rx>21 22</Rx>
+			<Rx>20 21</Rx>
+			<Rx>19 20</Rx>
+			<Rx>18 19</Rx>
+			<Rx>17 18</Rx>
+		</Measure>
+		<Measure>
+			<Tx>28 27</Tx>
+			<Rx>29 30</Rx>
+			<Rx>25 26</Rx>
+			<Rx>24 25</Rx>
+			<Rx>23 24</Rx>
+			<Rx>22 23</Rx>
+			<Rx>21 22</Rx>
+			<Rx>20 21</Rx>
+			<Rx>19 20</Rx>
+			<Rx>18 19</Rx>
+			<Rx>17 18</Rx>
+		</Measure>
+		<Measure>
+			<Tx>29 28</Tx>
+			<Rx>30 31</Rx>
+			<Rx>26 27</Rx>
+			<Rx>25 26</Rx>
+			<Rx>24 25</Rx>
+			<Rx>23 24</Rx>
+			<Rx>22 23</Rx>
+			<Rx>21 22</Rx>
+			<Rx>20 21</Rx>
+			<Rx>19 20</Rx>
+			<Rx>18 19</Rx>
+			<Rx>17 18</Rx>
+		</Measure>
+		<Measure>
+			<Tx>30 29</Tx>
+			<Rx>31 32</Rx>
+			<Rx>27 28</Rx>
+			<Rx>26 27</Rx>
+			<Rx>25 26</Rx>
+			<Rx>24 25</Rx>
+			<Rx>23 24</Rx>
+			<Rx>22 23</Rx>
+			<Rx>21 22</Rx>
+			<Rx>20 21</Rx>
+			<Rx>19 20</Rx>
+			<Rx>18 19</Rx>
+			<Rx>17 18</Rx>
+		</Measure>
+		<Measure>
+			<Tx>19 17</Tx>
+			<Rx>21 23</Rx>
+		</Measure>
+		<Measure>
+			<Tx>20 18</Tx>
+			<Rx>22 24</Rx>
+		</Measure>
+		<Measure>
+			<Tx>21 19</Tx>
+			<Rx>23 25</Rx>
+		</Measure>
+		<Measure>
+			<Tx>22 20</Tx>
+			<Rx>24 26</Rx>
+		</Measure>
+		<Measure>
+			<Tx>23 21</Tx>
+			<Rx>25 27</Rx>
+		</Measure>
+		<Measure>
+			<Tx>24 22</Tx>
+			<Rx>26 28</Rx>
+			<Rx>18 20</Rx>
+			<Rx>28 30</Rx>
+		</Measure>
+		<Measure>
+			<Tx>25 23</Tx>
+			<Rx>27 29</Rx>
+			<Rx>17 19</Rx>
+		</Measure>
+		<Measure>
+			<Tx>26 24</Tx>
+			<Rx>28 30</Rx>
+			<Rx>18 20</Rx>
+		</Measure>
+		<Measure>
+			<Tx>27 25</Tx>
+			<Rx>29 31</Rx>
+			<Rx>21 23</Rx>
+			<Rx>19 21</Rx>
+			<Rx>17 19</Rx>
+		</Measure>
+		<Measure>
+			<Tx>28 26</Tx>
+			<Rx>30 32</Rx>
+			<Rx>20 22</Rx>
+			<Rx>18 20</Rx>
+		</Measure>
+		<Measure>
+			<Tx>32 29</Tx>
+			<Rx>23 26</Rx>
+			<Rx>17 20</Rx>
+		</Measure>
+		<Measure>
+			<Tx>31 28</Tx>
+			<Rx>22 25</Rx>
+		</Measure>
+		<Measure>
+			<Tx>30 27</Tx>
+			<Rx>21 24</Rx>
+		</Measure>
+		<Measure>
+			<Tx>29 26</Tx>
+			<Rx>20 23</Rx>
+		</Measure>
+		<Measure>
+			<Tx>28 25</Tx>
+			<Rx>19 22</Rx>
+		</Measure>
+		<Measure>
+			<Tx>27 24</Tx>
+			<Rx>18 21</Rx>
+		</Measure>
+		<Measure>
+			<Tx>26 23</Tx>
+			<Rx>17 20</Rx>
+		</Measure>
+		<Measure>
+			<Tx>22 19</Tx>
+			<Rx>25 28</Rx>
+			<Rx>28 31</Rx>
+		</Measure>
+		<Measure>
+			<Tx>23 20</Tx>
+			<Rx>26 29</Rx>
+			<Rx>29 32</Rx>
+		</Measure>
+		<Measure>
+			<Tx>32 31</Tx>
+			<Rx>28 29</Rx>
+			<Rx>27 28</Rx>
+			<Rx>26 27</Rx>
+			<Rx>25 26</Rx>
+			<Rx>24 25</Rx>
+			<Rx>23 24</Rx>
+			<Rx>22 23</Rx>
+			<Rx>21 22</Rx>
+			<Rx>20 21</Rx>
+			<Rx>19 20</Rx>
+			<Rx>18 19</Rx>
+			<Rx>17 18</Rx>
+		</Measure>
+		<Measure>
+			<Tx>31 30</Tx>
+			<Rx>27 28</Rx>
+			<Rx>26 27</Rx>
+			<Rx>25 26</Rx>
+			<Rx>24 25</Rx>
+			<Rx>23 24</Rx>
+			<Rx>22 23</Rx>
+			<Rx>21 22</Rx>
+			<Rx>20 21</Rx>
+			<Rx>19 20</Rx>
+			<Rx>18 19</Rx>
+			<Rx>17 18</Rx>
+		</Measure>
+		<Measure>
+			<Tx>21 17</Tx>
+			<Rx>25 29</Rx>
+		</Measure>
+		<Measure>
+			<Tx>22 18</Tx>
+			<Rx>26 30</Rx>
+		</Measure>
+		<Measure>
+			<Tx>23 19</Tx>
+			<Rx>27 31</Rx>
+		</Measure>
+		<Measure>
+			<Tx>24 20</Tx>
+			<Rx>28 32</Rx>
+		</Measure>
+		<Measure>
+			<Tx>22 17</Tx>
+			<Rx>27 32</Rx>
+		</Measure>
+		<Measure>
+			<Tx>32 30</Tx>
+			<Rx>24 26</Rx>
+			<Rx>22 24</Rx>
+			<Rx>20 22</Rx>
+			<Rx>18 20</Rx>
+		</Measure>
+		<Measure>
+			<Tx>31 29</Tx>
+			<Rx>23 25</Rx>
+			<Rx>21 23</Rx>
+			<Rx>19 21</Rx>
+			<Rx>17 19</Rx>
+		</Measure>
+		<Measure>
+			<Tx>30 28</Tx>
+			<Rx>22 24</Rx>
+			<Rx>20 22</Rx>
+			<Rx>18 20</Rx>
+		</Measure>
+		<Measure>
+			<Tx>29 27</Tx>
+			<Rx>21 23</Rx>
+			<Rx>19 21</Rx>
+			<Rx>17 19</Rx>
+		</Measure>
+		<Measure>
+			<Tx>20 17</Tx>
+			<Rx>26 29</Rx>
+		</Measure>
+		<Measure>
+			<Tx>21 18</Tx>
+			<Rx>27 30</Rx>
+		</Measure>
+		<Measure>
+			<Tx>47 48</Tx>
+			<Rx>46 45</Rx>
+			<Rx>41 40</Rx>
+			<Rx>37 36</Rx>
+		</Measure>
+		<Measure>
+			<Tx>46 47</Tx>
+			<Rx>45 44</Rx>
+			<Rx>42 41</Rx>
+			<Rx>39 38</Rx>
+		</Measure>
+		<Measure>
+			<Tx>45 46</Tx>
+			<Rx>44 43</Rx>
+			<Rx>40 39</Rx>
+			<Rx>37 36</Rx>
+		</Measure>
+		<Measure>
+			<Tx>44 45</Tx>
+			<Rx>43 42</Rx>
+			<Rx>48 47</Rx>
+			<Rx>42 41</Rx>
+			<Rx>40 39</Rx>
+			<Rx>37 36</Rx>
+		</Measure>
+		<Measure>
+			<Tx>43 44</Tx>
+			<Rx>42 41</Rx>
+			<Rx>46 45</Rx>
+			<Rx>47 46</Rx>
+			<Rx>48 47</Rx>
+			<Rx>35 34</Rx>
+		</Measure>
+		<Measure>
+			<Tx>42 43</Tx>
+			<Rx>41 40</Rx>
+			<Rx>46 45</Rx>
+			<Rx>47 46</Rx>
+			<Rx>48 47</Rx>
+			<Rx>38 37</Rx>
+		</Measure>
+		<Measure>
+			<Tx>41 42</Tx>
+			<Rx>40 39</Rx>
+			<Rx>45 44</Rx>
+			<Rx>46 45</Rx>
+			<Rx>47 46</Rx>
+			<Rx>48 47</Rx>
+			<Rx>34 33</Rx>
+		</Measure>
+		<Measure>
+			<Tx>40 41</Tx>
+			<Rx>39 38</Rx>
+			<Rx>44 43</Rx>
+			<Rx>45 44</Rx>
+			<Rx>46 45</Rx>
+			<Rx>47 46</Rx>
+			<Rx>35 34</Rx>
+			<Rx>48 47</Rx>
+		</Measure>
+		<Measure>
+			<Tx>39 40</Tx>
+			<Rx>38 37</Rx>
+			<Rx>43 42</Rx>
+			<Rx>44 43</Rx>
+			<Rx>45 44</Rx>
+			<Rx>46 45</Rx>
+			<Rx>34 33</Rx>
+			<Rx>47 46</Rx>
+			<Rx>48 47</Rx>
+		</Measure>
+		<Measure>
+			<Tx>38 39</Tx>
+			<Rx>37 36</Rx>
+			<Rx>42 41</Rx>
+			<Rx>43 42</Rx>
+			<Rx>44 43</Rx>
+			<Rx>45 44</Rx>
+			<Rx>46 45</Rx>
+			<Rx>47 46</Rx>
+			<Rx>48 47</Rx>
+		</Measure>
+		<Measure>
+			<Tx>37 38</Tx>
+			<Rx>36 35</Rx>
+			<Rx>40 39</Rx>
+			<Rx>41 40</Rx>
+			<Rx>42 41</Rx>
+			<Rx>43 42</Rx>
+			<Rx>44 43</Rx>
+			<Rx>45 44</Rx>
+			<Rx>46 45</Rx>
+			<Rx>47 46</Rx>
+			<Rx>48 47</Rx>
+		</Measure>
+		<Measure>
+			<Tx>36 37</Tx>
+			<Rx>35 34</Rx>
+			<Rx>39 38</Rx>
+			<Rx>40 39</Rx>
+			<Rx>41 40</Rx>
+			<Rx>42 41</Rx>
+			<Rx>43 42</Rx>
+			<Rx>44 43</Rx>
+			<Rx>45 44</Rx>
+			<Rx>46 45</Rx>
+			<Rx>47 46</Rx>
+			<Rx>48 47</Rx>
+		</Measure>
+		<Measure>
+			<Tx>35 36</Tx>
+			<Rx>34 33</Rx>
+			<Rx>38 37</Rx>
+			<Rx>39 38</Rx>
+			<Rx>40 39</Rx>
+			<Rx>41 40</Rx>
+			<Rx>42 41</Rx>
+			<Rx>43 42</Rx>
+			<Rx>44 43</Rx>
+			<Rx>45 44</Rx>
+			<Rx>46 45</Rx>
+			<Rx>47 46</Rx>
+			<Rx>48 47</Rx>
+		</Measure>
+		<Measure>
+			<Tx>46 48</Tx>
+			<Rx>44 42</Rx>
+		</Measure>
+		<Measure>
+			<Tx>45 47</Tx>
+			<Rx>43 41</Rx>
+		</Measure>
+		<Measure>
+			<Tx>44 46</Tx>
+			<Rx>42 40</Rx>
+		</Measure>
+		<Measure>
+			<Tx>43 45</Tx>
+			<Rx>41 39</Rx>
+		</Measure>
+		<Measure>
+			<Tx>42 44</Tx>
+			<Rx>40 38</Rx>
+		</Measure>
+		<Measure>
+			<Tx>41 43</Tx>
+			<Rx>39 37</Rx>
+			<Rx>47 45</Rx>
+			<Rx>37 35</Rx>
+		</Measure>
+		<Measure>
+			<Tx>40 42</Tx>
+			<Rx>38 36</Rx>
+			<Rx>48 46</Rx>
+		</Measure>
+		<Measure>
+			<Tx>39 41</Tx>
+			<Rx>37 35</Rx>
+			<Rx>47 45</Rx>
+		</Measure>
+		<Measure>
+			<Tx>38 40</Tx>
+			<Rx>36 34</Rx>
+			<Rx>44 42</Rx>
+			<Rx>46 44</Rx>
+			<Rx>48 46</Rx>
+		</Measure>
+		<Measure>
+			<Tx>37 39</Tx>
+			<Rx>35 33</Rx>
+			<Rx>45 43</Rx>
+			<Rx>47 45</Rx>
+		</Measure>
+		<Measure>
+			<Tx>33 36</Tx>
+			<Rx>42 39</Rx>
+			<Rx>48 45</Rx>
+		</Measure>
+		<Measure>
+			<Tx>34 37</Tx>
+			<Rx>43 40</Rx>
+		</Measure>
+		<Measure>
+			<Tx>35 38</Tx>
+			<Rx>44 41</Rx>
+		</Measure>
+		<Measure>
+			<Tx>36 39</Tx>
+			<Rx>45 42</Rx>
+		</Measure>
+		<Measure>
+			<Tx>37 40</Tx>
+			<Rx>46 43</Rx>
+		</Measure>
+		<Measure>
+			<Tx>38 41</Tx>
+			<Rx>47 44</Rx>
+		</Measure>
+		<Measure>
+			<Tx>39 42</Tx>
+			<Rx>48 45</Rx>
+		</Measure>
+		<Measure>
+			<Tx>43 46</Tx>
+			<Rx>40 37</Rx>
+			<Rx>37 34</Rx>
+		</Measure>
+		<Measure>
+			<Tx>42 45</Tx>
+			<Rx>39 36</Rx>
+			<Rx>36 33</Rx>
+		</Measure>
+		<Measure>
+			<Tx>33 34</Tx>
+			<Rx>37 36</Rx>
+			<Rx>38 37</Rx>
+			<Rx>39 38</Rx>
+			<Rx>40 39</Rx>
+			<Rx>41 40</Rx>
+			<Rx>42 41</Rx>
+			<Rx>43 42</Rx>
+			<Rx>44 43</Rx>
+			<Rx>45 44</Rx>
+			<Rx>46 45</Rx>
+			<Rx>47 46</Rx>
+			<Rx>48 47</Rx>
+		</Measure>
+		<Measure>
+			<Tx>34 35</Tx>
+			<Rx>38 37</Rx>
+			<Rx>39 38</Rx>
+			<Rx>40 39</Rx>
+			<Rx>41 40</Rx>
+			<Rx>42 41</Rx>
+			<Rx>43 42</Rx>
+			<Rx>44 43</Rx>
+			<Rx>45 44</Rx>
+			<Rx>46 45</Rx>
+			<Rx>47 46</Rx>
+			<Rx>48 47</Rx>
+		</Measure>
+		<Measure>
+			<Tx>44 48</Tx>
+			<Rx>40 36</Rx>
+		</Measure>
+		<Measure>
+			<Tx>43 47</Tx>
+			<Rx>39 35</Rx>
+		</Measure>
+		<Measure>
+			<Tx>42 46</Tx>
+			<Rx>38 34</Rx>
+		</Measure>
+		<Measure>
+			<Tx>41 45</Tx>
+			<Rx>37 33</Rx>
+		</Measure>
+		<Measure>
+			<Tx>43 48</Tx>
+			<Rx>38 33</Rx>
+		</Measure>
+		<Measure>
+			<Tx>33 35</Tx>
+			<Rx>41 39</Rx>
+			<Rx>43 41</Rx>
+			<Rx>45 43</Rx>
+			<Rx>47 45</Rx>
+		</Measure>
+		<Measure>
+			<Tx>34 36</Tx>
+			<Rx>42 40</Rx>
+			<Rx>44 42</Rx>
+			<Rx>46 44</Rx>
+			<Rx>48 46</Rx>
+		</Measure>
+		<Measure>
+			<Tx>35 37</Tx>
+			<Rx>43 41</Rx>
+			<Rx>45 43</Rx>
+			<Rx>47 45</Rx>
+		</Measure>
+		<Measure>
+			<Tx>36 38</Tx>
+			<Rx>44 42</Rx>
+			<Rx>46 44</Rx>
+			<Rx>48 46</Rx>
+		</Measure>
+		<Measure>
+			<Tx>45 48</Tx>
+			<Rx>39 36</Rx>
+		</Measure>
+		<Measure>
+			<Tx>44 47</Tx>
+			<Rx>38 35</Rx>
+		</Measure>
+		<Measure>
+			<Tx>50 49</Tx>
+			<Rx>51 52</Rx>
+			<Rx>56 57</Rx>
+			<Rx>59 60</Rx>
+		</Measure>
+		<Measure>
+			<Tx>51 50</Tx>
+			<Rx>52 53</Rx>
+			<Rx>55 56</Rx>
+			<Rx>58 59</Rx>
+		</Measure>
+		<Measure>
+			<Tx>52 51</Tx>
+			<Rx>53 54</Rx>
+			<Rx>57 58</Rx>
+			<Rx>58 59</Rx>
+		</Measure>
+		<Measure>
+			<Tx>53 52</Tx>
+			<Rx>54 55</Rx>
+			<Rx>49 50</Rx>
+			<Rx>55 56</Rx>
+			<Rx>57 58</Rx>
+			<Rx>58 59</Rx>
+		</Measure>
+		<Measure>
+			<Tx>54 53</Tx>
+			<Rx>55 56</Rx>
+			<Rx>51 52</Rx>
+			<Rx>50 51</Rx>
+			<Rx>49 50</Rx>
+		</Measure>
+		<Measure>
+			<Tx>55 54</Tx>
+			<Rx>56 57</Rx>
+			<Rx>51 52</Rx>
+			<Rx>50 51</Rx>
+			<Rx>49 50</Rx>
+			<Rx>59 60</Rx>
+		</Measure>
+		<Measure>
+			<Tx>56 55</Tx>
+			<Rx>57 58</Rx>
+			<Rx>52 53</Rx>
+			<Rx>51 52</Rx>
+			<Rx>50 51</Rx>
+			<Rx>49 50</Rx>
+		</Measure>
+		<Measure>
+			<Tx>57 56</Tx>
+			<Rx>58 59</Rx>
+			<Rx>53 54</Rx>
+			<Rx>52 53</Rx>
+			<Rx>51 52</Rx>
+			<Rx>50 51</Rx>
+			<Rx>49 50</Rx>
+		</Measure>
+		<Measure>
+			<Tx>58 57</Tx>
+			<Rx>59 60</Rx>
+			<Rx>54 55</Rx>
+			<Rx>53 54</Rx>
+			<Rx>52 53</Rx>
+			<Rx>51 52</Rx>
+			<Rx>50 51</Rx>
+			<Rx>49 50</Rx>
+		</Measure>
+		<Measure>
+			<Tx>59 58</Tx>
+			<Rx>55 56</Rx>
+			<Rx>54 55</Rx>
+			<Rx>53 54</Rx>
+			<Rx>52 53</Rx>
+			<Rx>51 52</Rx>
+			<Rx>50 51</Rx>
+			<Rx>49 50</Rx>
+		</Measure>
+		<Measure>
+			<Tx>60 59</Tx>
+			<Rx>57 58</Rx>
+			<Rx>56 57</Rx>
+			<Rx>55 56</Rx>
+			<Rx>54 55</Rx>
+			<Rx>53 54</Rx>
+			<Rx>52 53</Rx>
+			<Rx>51 52</Rx>
+			<Rx>50 51</Rx>
+			<Rx>49 50</Rx>
+		</Measure>
+		<Measure>
+			<Tx>51 49</Tx>
+			<Rx>53 55</Rx>
+		</Measure>
+		<Measure>
+			<Tx>52 50</Tx>
+			<Rx>54 56</Rx>
+		</Measure>
+		<Measure>
+			<Tx>53 51</Tx>
+			<Rx>55 57</Rx>
+		</Measure>
+		<Measure>
+			<Tx>54 52</Tx>
+			<Rx>56 58</Rx>
+		</Measure>
+		<Measure>
+			<Tx>55 53</Tx>
+			<Rx>57 59</Rx>
+		</Measure>
+		<Measure>
+			<Tx>56 54</Tx>
+			<Rx>58 60</Rx>
+			<Rx>50 52</Rx>
+		</Measure>
+		<Measure>
+			<Tx>57 55</Tx>
+			<Rx>59 60</Rx>
+			<Rx>49 51</Rx>
+		</Measure>
+		<Measure>
+			<Tx>58 56</Tx>
+			<Rx>50 52</Rx>
+		</Measure>
+		<Measure>
+			<Tx>59 57</Tx>
+			<Rx>53 55</Rx>
+			<Rx>51 53</Rx>
+			<Rx>49 51</Rx>
+		</Measure>
+		<Measure>
+			<Tx>60 58</Tx>
+			<Rx>52 54</Rx>
+			<Rx>50 52</Rx>
+		</Measure>
+		<Measure>
+			<Tx>60 57</Tx>
+			<Rx>51 54</Rx>
+		</Measure>
+		<Measure>
+			<Tx>59 56</Tx>
+			<Rx>50 53</Rx>
+		</Measure>
+		<Measure>
+			<Tx>58 55</Tx>
+			<Rx>49 52</Rx>
+		</Measure>
+		<Measure>
+			<Tx>54 51</Tx>
+			<Rx>57 60</Rx>
+		</Measure>
+		<Measure>
+			<Tx>59 60</Tx>
+			<Rx>58 59</Rx>
+			<Rx>57 58</Rx>
+			<Rx>56 57</Rx>
+			<Rx>55 56</Rx>
+			<Rx>54 55</Rx>
+			<Rx>53 54</Rx>
+			<Rx>52 53</Rx>
+			<Rx>51 52</Rx>
+			<Rx>50 51</Rx>
+			<Rx>49 50</Rx>
+		</Measure>
+		<Measure>
+			<Tx>59 60</Tx>
+			<Rx>58 59</Rx>
+			<Rx>57 58</Rx>
+			<Rx>56 57</Rx>
+			<Rx>55 56</Rx>
+			<Rx>54 55</Rx>
+			<Rx>53 54</Rx>
+			<Rx>52 53</Rx>
+			<Rx>51 52</Rx>
+			<Rx>50 51</Rx>
+			<Rx>49 50</Rx>
+		</Measure>
+		<Measure>
+			<Tx>54 50</Tx>
+			<Rx>58 60</Rx>
+		</Measure>
+		<Measure>
+			<Tx>55 51</Tx>
+			<Rx>59 60</Rx>
+		</Measure>
+		<Measure>
+			<Tx>56 52</Tx>
+			<Rx>59 60</Rx>
+		</Measure>
+		<Measure>
+			<Tx>54 49</Tx>
+			<Rx>59 60</Rx>
+		</Measure>
+		<Measure>
+			<Tx>56 58</Tx>
+			<Rx>54 56</Rx>
+			<Rx>52 54</Rx>
+			<Rx>50 52</Rx>
+		</Measure>
+		<Measure>
+			<Tx>55 57</Tx>
+			<Rx>53 55</Rx>
+			<Rx>51 53</Rx>
+			<Rx>49 51</Rx>
+		</Measure>
+		<Measure>
+			<Tx>54 56</Tx>
+			<Rx>52 54</Rx>
+			<Rx>50 52</Rx>
+		</Measure>
+		<Measure>
+			<Tx>60 59</Tx>
+			<Rx>53 55</Rx>
+			<Rx>51 53</Rx>
+			<Rx>49 51</Rx>
+		</Measure>
+		<Measure>
+			<Tx>37 60</Tx>
+			<Rx>28 5</Rx>
+		</Measure>
+		<Measure>
+			<Tx>38 59</Tx>
+			<Rx>27 6</Rx>
+		</Measure>
+		<Measure>
+			<Tx>39 58</Tx>
+			<Rx>26 7</Rx>
+		</Measure>
+		<Measure>
+			<Tx>40 57</Tx>
+			<Rx>25 8</Rx>
+		</Measure>
+		<Measure>
+			<Tx>41 56</Tx>
+			<Rx>24 9</Rx>
+		</Measure>
+		<Measure>
+			<Tx>42 55</Tx>
+			<Rx>23 10</Rx>
+		</Measure>
+		<Measure>
+			<Tx>43 54</Tx>
+			<Rx>22 11</Rx>
+		</Measure>
+		<Measure>
+			<Tx>44 53</Tx>
+			<Rx>21 12</Rx>
+		</Measure>
+		<Measure>
+			<Tx>45 52</Tx>
+			<Rx>20 13</Rx>
+		</Measure>
+		<Measure>
+			<Tx>46 51</Tx>
+			<Rx>19 14</Rx>
+		</Measure>
+		<Measure>
+			<Tx>47 50</Tx>
+			<Rx>18 15</Rx>
+		</Measure>
+		<Measure>
+			<Tx>48 49</Tx>
+			<Rx>17 16</Rx>
+		</Measure>
+		<Measure>
+			<Tx>35 60</Tx>
+			<Rx>31 1</Rx>
+		</Measure>
+		<Measure>
+			<Tx>36 60</Tx>
+			<Rx>30 2</Rx>
+		</Measure>
+		<Measure>
+			<Tx>37 59</Tx>
+			<Rx>29 3</Rx>
+		</Measure>
+		<Measure>
+			<Tx>38 58</Tx>
+			<Rx>28 4</Rx>
+		</Measure>
+		<Measure>
+			<Tx>39 57</Tx>
+			<Rx>27 5</Rx>
+		</Measure>
+		<Measure>
+			<Tx>40 56</Tx>
+			<Rx>26 6</Rx>
+		</Measure>
+		<Measure>
+			<Tx>41 55</Tx>
+			<Rx>25 7</Rx>
+		</Measure>
+		<Measure>
+			<Tx>42 54</Tx>
+			<Rx>24 8</Rx>
+		</Measure>
+		<Measure>
+			<Tx>43 53</Tx>
+			<Rx>23 9</Rx>
+		</Measure>
+		<Measure>
+			<Tx>44 52</Tx>
+			<Rx>22 10</Rx>
+		</Measure>
+		<Measure>
+			<Tx>45 51</Tx>
+			<Rx>21 11</Rx>
+		</Measure>
+		<Measure>
+			<Tx>46 50</Tx>
+			<Rx>20 12</Rx>
+		</Measure>
+		<Measure>
+			<Tx>47 49</Tx>
+			<Rx>19 13</Rx>
+		</Measure>
+	</Sequence>
+</Protocol>
